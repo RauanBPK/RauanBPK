@@ -24,7 +24,7 @@ Currently playing around with some CTF challanges, learning Flutter and distro-h
 - AWS                   -  🟩🟩🟩⬜⬜
 - Docker                -  🟩🟩🟩⬜⬜
 - Microeletronics       -  🟩🟩🟩⬜⬜
-- React/Native          -  🟩🟩🟩⬜⬜
+- React/Native          -  🟩🟩⬜⬜⬜
 - Computer Vision       -  🟩🟩⬜⬜⬜
 
 ```
