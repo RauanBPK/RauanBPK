@@ -28,6 +28,14 @@ Currently playing around with some CTF challanges, learning Flutter and distro-h
 - Computer Vision       -  🟩🟩⬜⬜⬜
 
 ```
+**misc**
+```
+- Guitar                         - 🟩🟩🟩🟩⬜
+- Guitar but someone is watching - 🟩⬜⬜⬜⬜
+- Whistling                      - 🟩⬜⬜⬜⬜
+- Whistling in the dark          - 🟩🟩🟩🟩🟩
+
+```
 -----------------------------------
 
 - 📫 How to reach me:<br>
