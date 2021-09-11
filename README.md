@@ -1,7 +1,10 @@
 ### HEYOO 🤘🤘
-<img src="https://media1.giphy.com/media/cXblnKXr2BQOaYnTni/giphy.gif?cid=ecf05e47vvnhbgrcpxjjatcsteahvmtufygjclgxotnwnbbi&rid=giphy.gif&ct=g" width="300">
+
+<img src="https://media1.giphy.com/media/cXblnKXr2BQOaYnTni/giphy.gif?cid=ecf05e47vvnhbgrcpxjjatcsteahvmtufygjclgxotnwnbbi&rid=giphy.gif&ct=g" width="300"/>
+
+
 My name is Rauan Pires and I am a Computer Engineer. <br>
-I graduated mid 2021 at UFSC (Santa Catarina's Federal University) in Brazil 🇧🇷
+I graduated mid 2021 at UFSC (Santa Catarina's Federal University) in Brazil 🇧🇷 <br>
 
 Currently playing around with some CTF challanges, learning Flutter and distro-hopping :)
 <br><br>
