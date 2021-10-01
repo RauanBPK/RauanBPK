@@ -6,7 +6,6 @@
 My name is Rauan Pires and I am a Computer Engineer. <br>
 I graduated mid 2021 at UFSC (Santa Catarina's Federal University) in Brazil 🇧🇷 <br>
 
-Currently playing around with some CTF challanges, learning Flutter and distro-hopping :)
 <br><br>
 <br>
 **Languages**
