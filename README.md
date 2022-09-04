@@ -43,7 +43,7 @@ I graduated mid 2021 at UFSC (Santa Catarina's Federal University) in Brazil �
 - 📫 How to reach me:<br>
 [Linkedin](https://www.linkedin.com/in/rauan-pires/)<br>
 📧 e-mail - rauanpires@gmail.com <br>
-https://devneios.com.br/
+https://devneios.me
 
 ----------
 ```
